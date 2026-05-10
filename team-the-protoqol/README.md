@@ -11,7 +11,7 @@
 
 ## Main File
 
-- `solution.ipynb`
+- `notebook.ipynb`
 
 ## Inputs
 
@@ -68,7 +68,7 @@
 
 ## Running
 
-- Open `solution.ipynb`.
+- Open `notebook.ipynb`.
 - Run all cells from top to bottom.
 - The final cell starts training and saves the output files.
 
